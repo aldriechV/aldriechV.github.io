@@ -6,7 +6,7 @@ body {
 .button-container {
     display: flex;
     justify-content: space-around; /* Adjust as needed */
-    align-items: center; /* Align items vertically in the center */
+    align-items: top; /* Align items vertically at the top */
     height: 100vh; /* Full height of the viewport */
 }
 .button {
