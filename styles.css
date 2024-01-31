@@ -11,13 +11,16 @@ header {
 
  button {
      width: 20%;
-     background-color: #4CAF50;
+     background-color: #cfa14c;
      color: white;
      padding: 10px;
      font-size: 16px;
      border: none;
      cursor: pointer;
      margin: 0 2%; /* Add a little margin between buttons */
+}
+button:hover{
+    background-color: #eeeeee;
 }
 
 
