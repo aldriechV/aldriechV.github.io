@@ -3,14 +3,17 @@ body {
     margin: 0; /* Remove default margin */
     padding: 0; /* Remove default padding */
 }
-.button-container {
-    display: flex;
-    justify-content: space-around; /* Adjust as needed */
-    align-items: top; /* Align items vertically at the top */
+header {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
 }
-.button {
-    flex: 1; 
-    padding: 10px 20px
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
     font-size: 16px;
+    border: none;
     cursor: pointer;
 }
