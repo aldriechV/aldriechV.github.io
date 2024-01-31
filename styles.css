@@ -4,7 +4,6 @@ body {
     padding: 0; /* Remove default padding */
 }
 header {
-    background-color: #333;
     padding: 10px;
     text-align: center;
 }
@@ -17,6 +16,7 @@ header {
      font-size: 16px;
      border: none;
      cursor: pointer;
+     transition-duration: 0.8s;
      margin: 0 2%; /* Add a little margin between buttons */
 }
 button:hover{
